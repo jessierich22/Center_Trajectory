@@ -1,0 +1,26 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Molecular dynamics inputs and generated outputs
+*.gro
+*.xtc
+*.trr
+*.tpr
+*.cpt
+*.edr
+*.log
+*.out
+*.err
